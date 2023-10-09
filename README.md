@@ -8,10 +8,7 @@ Skills: HTML, CSS, JavaScript, React, Next, Redux, PHP, Firebase, MySQL, Tailwin
 
 - 🌱 I’m currently learning MERN stack 
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: If the code works, don't touch it. 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/itsJhnL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/johnleobruno//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/LeoXyRDG/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/janggodev//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/LeoXyRealDeal)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://janggo-dev.vercel.app/)  
+- ⚡ Fun fact: If the code works, don't touch it.  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=itsJhnL)  
 
