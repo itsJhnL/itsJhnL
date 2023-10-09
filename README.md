@@ -1,10 +1,13 @@
 ### Hi there 👋,  
-#### I'm John Leo, a software developer based from Nueva Ecija, Philippines
+I'm **John Leo**, a software developer based from **Nueva Ecija, Philippines**
 Helping startups, small businesses, and agencies in achieving high quality websites and providing remarkable user experiences.
 
 Since I started my journey as a front-end developer, I've worked on personal projects, crafting responsive websites that are both fast and user-friendly while following best practices. I have a quiet confidence, a natural curiosity, and I'm always working to improve my skills and constantly working on getting better at solving problems.
 
-Skills: HTML, CSS, JavaScript, React, Next, Redux, PHP, Firebase, MySQL, TailwindCSS, Bootstrap, Material-UI, Figma, Git
+##Skills and Experience 
+Front-End: HTML, CSS, JavaScript, React, TailwindCSS, Bootstrap, Material-UI, 
+Back-End: PHP, Firebase, MySQL
+Others: Figma, Git
 
 - 🌱 I’m currently learning MERN stack 
 - 😄 Pronouns: He/Him  
