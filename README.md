@@ -6,7 +6,7 @@ Since I started my journey as a front-end developer, I've worked on personal pro
 
 ## Skills and Experience 
 * Front-End: HTML, CSS, JavaScript, React, TailwindCSS, Bootstrap, Material-UI, 
-* Back-End: PHP, Firebase, MySQL
+* Back-End: REST API, PHP, Firebase, MySQL
 * Others: Figma, Git
 
 - 🌱 I’m currently learning MERN stack 
