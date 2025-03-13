@@ -13,5 +13,5 @@ Since I started my journey as a front-end developer, I've worked on personal pro
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: If the code works, don't touch it.  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=itsJhnL)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=itsJhnL)](https://git.io/streak-stats)
 
