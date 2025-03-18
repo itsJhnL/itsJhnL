@@ -5,12 +5,12 @@ Helping startups, small businesses, and agencies in achieving high quality websi
 Since I started my journey as a front-end developer, I've worked on personal projects, crafting responsive and user-friendly websites while following best practices. I have a quiet confidence, a natural curiosity, and I'm always working to improve my skills and constantly working on getting better at solving problems.
 
 ## Skills and Experience 
-* Front-End: HTML, CSS, JavaScript, React, TailwindCSS, Bootstrap, Material-UI, 
+* Front-End: HTML, CSS, JavaScript, React, TailwindCSS, Bootstrap, Material-UI
 * Back-End: REST API, PHP, Firebase, MySQL
-* Others: Figma, Git
+* Developer tools: VS Code, Git, Github, Discord, Teams, Figma
 
 - 🌱 I’m currently learning MERN stack 
-- 😄 Pronouns: He/Him  
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: If the code works, don't touch it.  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=itsJhnL)](https://git.io/streak-stats)
