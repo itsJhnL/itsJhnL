@@ -76,7 +76,6 @@ AI Integration • AI Chatbots • AI Evaluation • Prompt Engineering • Agen
 ## 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jhnleo.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnleobruno)
 
 ---
 
